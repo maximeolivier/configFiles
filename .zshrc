@@ -53,7 +53,7 @@ alias rmdir='rm -rf'
 alias emacs='emacs -nw'
  
 # un VRAI éditeur de texte ;)
-export EDITOR=/usr/bin/emacs -nw
+export EDITOR="/usr/bin/emacs -nw"
  
 #Activer l'historique des commandes:
 HISTFILE=~/.history
