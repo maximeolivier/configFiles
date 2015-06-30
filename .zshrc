@@ -52,10 +52,10 @@ alias s='cd ..'
 alias rmdir='rm -rf'
 alias emacs='emacs -nw'
  
-# un VRAI éditeur de texte ;)
+# Un VRAI éditeur de texte ;)
 export EDITOR="/usr/bin/emacs -nw"
  
-#Activer l'historique des commandes:
+# Activer l'historique des commandes:
 HISTFILE=~/.history
 HISTSIZE=1000
 SAVEHIST=1000
