@@ -1,2 +1,3 @@
 # configFiles
-Fichiers de configuration perso
+Fichiers de configuration perso pour sauvegarde et déploiement rapide.
+
